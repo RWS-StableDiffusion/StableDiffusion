@@ -7,3 +7,4 @@ General info and instructions for the use of SD
 3) dreamshaper_6BakedVae.safetensors
 
 ## Loras
+1) SDXL - vanta-black_contrast_V3.0.safetensors
