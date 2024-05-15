@@ -9,3 +9,5 @@ General info and instructions for the use of SD
 ## Loras
 1) SDXL - vanta-black_contrast_V3.0.safetensors
 2) Desolation.safetensors
+
+## Prompts used
