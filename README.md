@@ -11,3 +11,4 @@ General info and instructions for the use of SD
 2) Desolation.safetensors
 
 ## Prompts used
+1) A horror landscape made of bloody red flesh, a horrifying terrifying mysterious ominous creepy scary dark airport built out of flesh veins and organs, Surrealism, Horror, Lovecraft, HD, 4k, RTX, wet, bloody, gibs, gore, visceral, fleshy, detailed, realistic, internal organs, biological horror 
